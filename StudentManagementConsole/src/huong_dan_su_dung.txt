@@ -1,0 +1,8 @@
+Nếu sử dụng IDE thì chỉ cần mở và 
+	Chạy hàm Main trong file Main.java sẽ hiện bảng menu, ta sẽ chọn theo đó.
+
+Cấu trúc:
+    - Student.java: chứa class các thông tin cần thiết của mỗi học sinh
+    - Manager.java: chứa các hàm điều phối, hiển thị menu, thực hiện các tác vụ thêm, xóa, sửa,...
+    - CssWriterSimple.java: class thực hiện nhiệm vụ ghi danh sách học sinh ra csv file
+    - Main.class: tạo object Manager và khởi động chương trình
